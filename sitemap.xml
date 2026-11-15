@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://quietroom.hiimobapps.cn/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quietroom.hiimobapps.cn/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://quietroom.hiimobapps.cn/zh/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quietroom.hiimobapps.cn/" />
+  </url>
+  <url>
+    <loc>https://quietroom.hiimobapps.cn/zh/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quietroom.hiimobapps.cn/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://quietroom.hiimobapps.cn/zh/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quietroom.hiimobapps.cn/" />
+  </url>
+  <url>
+    <loc>https://quietroom.hiimobapps.cn/privacy.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quietroom.hiimobapps.cn/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://quietroom.hiimobapps.cn/zh/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quietroom.hiimobapps.cn/privacy.html" />
+  </url>
+  <url>
+    <loc>https://quietroom.hiimobapps.cn/zh/privacy.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quietroom.hiimobapps.cn/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://quietroom.hiimobapps.cn/zh/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quietroom.hiimobapps.cn/privacy.html" />
+  </url>
+  <url>
+    <loc>https://quietroom.hiimobapps.cn/support.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quietroom.hiimobapps.cn/support.html" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://quietroom.hiimobapps.cn/zh/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quietroom.hiimobapps.cn/support.html" />
+  </url>
+  <url>
+    <loc>https://quietroom.hiimobapps.cn/zh/support.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quietroom.hiimobapps.cn/support.html" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://quietroom.hiimobapps.cn/zh/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quietroom.hiimobapps.cn/support.html" />
+  </url>
+</urlset>
