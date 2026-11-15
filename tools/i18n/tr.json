@@ -1,0 +1,183 @@
+{
+ "meta": {
+  "lang": "tr",
+  "locale": "tr_TR",
+  "label": "Türkçe"
+ },
+ "name": "QuietRoom",
+ "nav": [
+  "Özellikler",
+  "Destek",
+  "Gizlilik"
+ ],
+ "language_label": "Dil",
+ "title": "QuietRoom: Odaklanma ve dinlenme için uzamsal doğa sesleri",
+ "desc": "Yağmur, orman, su ve ateş seslerini 3B olarak çevrenize yerleştirin. iPhone'da 36 yerleşik doğa sesi, çevrimdışı çalma, uyku zamanlayıcısı ve isteğe bağlı baş takibi.",
+ "hero_kicker": "iPhone için · iOS 18 veya üstü",
+ "hero_title": "Tam burada, biraz sessizlik.",
+ "hero_body": "QuietRoom doğa seslerini çevrenize yerleştirir: solunuzdaki pencerede yağmur, önünüzde bir dere, hemen arkanızda bir ateş. Kulaklığınızı takın, dinlemeye başlayın ve odayı içinize sinene dek şekillendirin.",
+ "cta_soon": "Yakında App Store'da",
+ "cta": "App Store'dan indirin",
+ "cta_support": "Destek alın",
+ "screenshots_label": "Ekran görüntüleri",
+ "shots": {
+  "home-playing": "Yağmurlu çalışma odası çalıyor, sesler 3B dinleyicinin çevresine yerleştirilmiş",
+  "library": "Ses kitaplığında bir sesi ön dinleme",
+  "source-edit": "Gök gürültüsünün ne sıklıkla ve nereden geleceğini ayarlama",
+  "rooms": "Hazır odalar, kendi odalarınız ve yeni boş bir oda"
+ },
+ "features_title": "Sakin bir odanın ihtiyacı olan her şey",
+ "features": [
+  [
+   "Gerçek alanda sesler",
+   "Her sesi 3B dinleyicinin çevresinde sürükleyin: sola veya sağa, öne veya arkaya, yukarı veya aşağı. Ya da yönü, yüksekliği ve mesafeyi tam olarak ayarlayın. Geniş arka planlar çevrenizde sabit kalır."
+  ],
+  [
+   "36 doğa sesi",
+   "Yağmur, gök gürültüsü, kuşlar, dereler, dalgalar, rüzgâr, böcekler, ayak sesleri ve ateş. Kayıtlar doğal olarak değiştiği için oda hiçbir zaman kısa bir döngü gibi gelmez. Pro sesler dahil her sesi eklemeden önce ön dinleyebilirsiniz."
+  ],
+  [
+   "Ara sıra gelen sesler, sizin temponuzda",
+   "Gök gürültüsü, kuş sesleri, damlalar ve ayak sesleri zaman zaman duyulur. Her biri için Seyrek, Normal veya Sık seçin. Ayak sesleri sürekli yürüyüş olarak da çalabilir."
+  ],
+  [
+   "Size ait odalar",
+   "Yağmurlu çalışma odası, Orman kampı veya Sahil kulübesiyle başlayın ya da boş bir odayla işe koyulun. Değişiklikler otomatik kaydedilir; kayıtlı odaları istediğiniz zaman yeniden adlandırın, çoğaltın veya değiştirin."
+  ],
+  [
+   "Baş takibi",
+   "Uyumlu kulaklıklarla başınızı çevirdiğinizde uzamsal sesler yerinde kalır. Normal kulaklıklar yine de sabit uzamsal ses sunar."
+  ],
+  [
+   "Çevrimdışı, gizli, sakin",
+   "Hesap yok, reklam yok, analiz yok. Sesler uygulamayla birlikte gelir; dinleme, düzenleme ve kaydetme bağlantı olmadan çalışır. Uyku zamanlayıcısı sesi yavaşça kısar."
+  ]
+ ],
+ "pricing_title": "Başlamak ücretsiz. Her şey için tek satın alma.",
+ "free_title": "Ücretsiz",
+ "free_items": [
+  "Eksiksiz Yağmurlu çalışma odası",
+  "Üç ses, en fazla üç katman",
+  "3B yerleştirme ve baş takibi",
+  "Çevrimdışı ve arka planda çalma, uyku zamanlayıcısı",
+  "Size ait bir oda",
+  "Her sesi ön dinleme"
+ ],
+ "pro_title": "QuietRoom Pro",
+ "pro_note": "Tek seferlik satın alma · abonelik yok",
+ "pro_items": [
+  "Orman kampı ve Sahil kulübesi odaları",
+  "36 sesin tamamı",
+  "Oda başına altı katmana kadar",
+  "Size ait yirmi odaya kadar"
+ ],
+ "pro_price": "Fiyat, bölgenizdeki App Store'da gösterilir.",
+ "foot_rights": "© 2026 hiimobapps",
+ "foot_contact": "İletişim",
+ "privacy_title": "Gizlilik Politikası",
+ "privacy_desc": "QuietRoom odalarınızı cihazınızda tutar. Hesap, reklam, izleme veya analiz yoktur.",
+ "updated_label": "Son güncelleme:",
+ "support_title": "Destek",
+ "support_desc": "QuietRoom yardımı: satın almalar, baş takibi, ses ön dinleme, odalar, zamanlayıcılar ve iletişim bilgileri.",
+ "privacy": [
+  [
+   "Özet",
+   [
+    "QuietRoom, hiimobapps tarafından yayımlanır. Hesap, reklam, izleme veya üçüncü taraf analiz içermez ve bir QuietRoom sunucusu yoktur. Uygulama kişisel veri toplamaz."
+   ]
+  ],
+  [
+   "Cihazınızdaki veriler",
+   [
+    "Sesler uygulamayla birlikte gelir. Odalarınız, ayarlarınız ve son geçerli yedek yalnızca iPhone'unuzdaki uygulamanın yerel kapsayıcısında saklanır. Bulut eşzamanlaması yoktur. Apple aracılığıyla aldığınız cihaz yedekleri, kendi ayarlarınıza göre bu uygulama verilerini içerebilir.",
+    "Uygulamayı silmek, odalarını cihazınızdan kaldırır."
+   ]
+  ],
+  [
+   "Baş takibi ve hareket",
+   [
+    "Uyumlu kulaklıklarla baş takibini açtığınızda yönelim, Apple'ın ses sistemi tarafından yerel olarak işlenir. QuietRoom baş konumu veya hareket geçmişini kaydetmez, saklamaz ve yüklemez. Hareket erişimini reddetmek normal çalmayı engellemez."
+   ]
+  ],
+  [
+   "Satın almalar",
+   [
+    "Satın almalar ve geri yüklemeler, Apple'ın koşulları altında StoreKit aracılığıyla Apple tarafından yönetilir. QuietRoom yalnızca satın almanızın doğrulanmış durumunu alır ve ödeme kartı bilgilerini asla görmez. Yeni bir kurulumda geri yükleme için internet bağlantısı gerekir."
+   ]
+  ],
+  [
+   "İzinler",
+   [
+    "QuietRoom mikrofon, konum, kişiler, fotoğraflar, sağlık veya reklam izleme erişimi istemez."
+   ]
+  ],
+  [
+   "Çocuklar",
+   [
+    "QuietRoom, çocuklar dahil hiç kimseden bilerek bilgi toplamaz."
+   ]
+  ],
+  [
+   "Bize ulaşın",
+   [
+    "Bize e-posta gönderirseniz mesajınızı yalnızca yanıt vermek için kullanırız; istediğiniz zaman silinmesini isteyebilirsiniz. İletişim: {email}."
+   ]
+  ],
+  [
+   "Değişiklikler",
+   [
+    "Bu politika değişirse güncel sürüm yeni bir tarihle bu sayfada yayımlanır. Çeviriler arasında fark olursa İngilizce sürüm geçerlidir."
+   ]
+  ]
+ ],
+ "support": {
+  "intro": "Her mesajı okuyoruz. Bize yazarken iPhone modelinizi, iOS sürümünüzü ve sorun oluştuğunda ne yaptığınızı belirtin.",
+  "email_label": "E-posta",
+  "faq_title": "Sık sorulan sorular",
+  "reqs_title": "Gereksinimler",
+  "reqs": "iOS 18 veya üstü yüklü iPhone. Baş takibi için uyumlu kulaklık ve Hareket erişimi gerekir.",
+  "safety": "Dijital ses düzeyi, kulaklıktaki ses basıncının bir ölçüsü değildir. Lütfen rahat bir düzeyde dinleyin."
+ },
+ "faq": [
+  [
+   "Pro satın alımımı nasıl geri yüklerim?",
+   "Ayarlar'ı (··· düğmesi) veya Pro sayfasını açın ve Satın alımları geri yükle'ye dokunun. Satın alırken kullandığınız Apple Hesabını kullanın. Yeni bir kurulumda ilk seferde internet bağlantısı gerekir."
+  ],
+  [
+   "Pro bir abonelik mi?",
+   "Hayır. QuietRoom Pro tek seferlik, tüketilmeyen bir satın almadır. İadeler Apple'ın politikalarına tabidir."
+  ],
+  [
+   "Kendi odamı nasıl oluştururum?",
+   "Odalar'ı açmak için oda başlığına dokunun. Boş başlamak için Yeni oda ekle'yi, mevcut karışımınızı saklamak için Mevcut odayı kaydet'i seçin. Düzenlemeler otomatik kaydedilir. Ücretsiz sürümde size ait bir oda, Pro'da yirmi oda bulunur."
+  ],
+  [
+   "Bir sesi nasıl yukarı, aşağı veya arkama taşırım?",
+   "Simgesini başın çevresinde sürükleyin; üstünüze, altınıza veya arkanıza taşıyabilirsiniz. Tam değerler için sese dokunun ve Yön, Yükseklik ve Mesafe'yi ayarlayın. Başın kendisini sürüklemek odaya başka bir açıdan bakmanızı sağlar; duyduğunuzu değiştirmez."
+  ],
+  [
+   "Baş takibi kullanılamıyor diyor.",
+   "Baş takibi için bunu destekleyen kulaklık, geçerli çıkış için açık uzamsal ses ve QuietRoom için Hareket erişimi gerekir. Bir oda çalarken başlar. Normal kulaklıklar yine de sabit uzamsal ses, hoparlörler temel çalma sunar."
+  ],
+  [
+   "Ses ön dinlemesi ne kadar sürer?",
+   "İstediğiniz kadar. Ön dinleme siz Durdur'a dokunana, ses kitaplığını kapatana veya uygulamadan çıkana kadar sürer. Pro sesler dahil her ses ön dinlenebilir. Ön dinleme sırasında çalan oda sesini kısar."
+  ],
+  [
+   "Gök gürültüsü veya kuşlar çok seyrek ya da çok sık geliyor.",
+   "Odanızdaki sese dokunun ve Sıklık altında Seyrek, Normal veya Sık'ı seçin. Ayak sesleri için ara ara adımlar veya sürekli yürüyüş de seçilebilir."
+  ],
+  [
+   "QuietRoom arka planda çalar mı?",
+   "Evet. Çalma, kilit ekranında ve arka planda kilit ekranı denetimleriyle sürer. Diğer uygulamalarla birlikte çalmak için Ayarlar'da Diğer seslerle karıştır'ı açın."
+  ],
+  [
+   "Uyku zamanlayıcısı nasıl çalışır?",
+   "15, 30, 60 veya 120 dakika seçin. Oda son on saniyede yavaşça kısılır ve durur. Elle duraklatmak zamanlayıcıyı kapatır."
+  ],
+  [
+   "Odalarım nerede saklanıyor? Nasıl silerim?",
+   "Yalnızca iPhone'unuzda. Bir odayı Odalar → ··· → Sil yoluyla silin veya her şeyi kaldırmak için uygulamayı silin."
+  ]
+ ]
+}

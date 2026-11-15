@@ -1,0 +1,183 @@
+{
+ "meta": {
+  "lang": "de",
+  "locale": "de_DE",
+  "label": "Deutsch"
+ },
+ "name": "QuietRoom",
+ "nav": [
+  "Funktionen",
+  "Support",
+  "Datenschutz"
+ ],
+ "language_label": "Sprache",
+ "title": "QuietRoom: Räumliche Naturklänge für Fokus und Ruhe",
+ "desc": "Ordne Regen, Wald, Wasser und Feuer in 3D um dich an. 36 enthaltene Naturklänge, Offline-Wiedergabe, Schlaftimer und optionales Head-Tracking auf dem iPhone.",
+ "hero_kicker": "Für iPhone · ab iOS 18",
+ "hero_title": "Ein wenig Ruhe, genau hier.",
+ "hero_body": "QuietRoom platziert Naturklänge um dich herum: Regen am Fenster links, ein Bach vor dir, ein Feuer direkt hinter dir. Setz Kopfhörer auf, starte die Wiedergabe und gestalte den Raum, bis er sich richtig anfühlt.",
+ "cta_soon": "Bald im App Store",
+ "cta": "Laden im App Store",
+ "cta_support": "Support erhalten",
+ "screenshots_label": "Screenshots",
+ "shots": {
+  "home-playing": "Lesezimmer im Regen bei der Wiedergabe, mit Klängen rund um einen 3D-Hörer",
+  "library": "Vorhören eines Klangs in der Klangbibliothek",
+  "source-edit": "Festlegen, wie oft Donner aufzieht und woher er kommt",
+  "rooms": "Ausgewählte Räume, eigene Räume und ein neuer leerer Raum"
+ },
+ "features_title": "Alles, was ein ruhiger Raum braucht",
+ "features": [
+  [
+   "Klänge im echten Raum",
+   "Zieh jeden Klang um einen 3D-Hörer: links oder rechts, vor oder hinter dich, nach oben oder unten. Oder lege Richtung, Höhe und Entfernung genau fest. Breite Hintergründe bleiben stabil um dich herum."
+  ],
+  [
+   "36 Naturklänge",
+   "Regen, Donner, Vögel, Bäche, Wellen, Wind, Insekten, Schritte und Feuer. Die Aufnahmen variieren natürlich, damit der Raum nie wie eine kurze Schleife wirkt. Hör jeden Klang vor, auch Pro-Klänge, bevor du ihn hinzufügst."
+  ],
+  [
+   "Gelegentliche Klänge, dein Tempo",
+   "Donner, Vogelgesang, Tropfen und Schritte kommen ab und zu. Wähle für jeden Klang Selten, Normal oder Häufig. Schritte können auch gleichmäßig gehen."
+  ],
+  [
+   "Deine eigenen Räume",
+   "Starte mit Lesezimmer im Regen, Waldcamp oder Hütte am Meer oder beginne mit einem leeren Raum. Änderungen werden automatisch gesichert; gesicherte Räume kannst du jederzeit umbenennen, duplizieren oder ersetzen."
+  ],
+  [
+   "Head-Tracking",
+   "Mit kompatiblen Kopfhörern bleiben räumliche Klänge an ihrem Platz, wenn du den Kopf drehst. Normale Kopfhörer bieten weiterhin festen räumlichen Klang."
+  ],
+  [
+   "Offline, privat, ruhig",
+   "Kein Account, keine Werbung, keine Analysen. Die Klänge sind in der App enthalten, daher funktionieren Hören, Bearbeiten und Sichern ohne Verbindung. Ein Schlaftimer blendet sanft aus."
+  ]
+ ],
+ "pricing_title": "Kostenlos starten. Ein Kauf für alles.",
+ "free_title": "Kostenlos",
+ "free_items": [
+  "Der vollständige Raum Lesezimmer im Regen",
+  "Drei Klänge, bis zu drei Ebenen",
+  "3D-Platzierung und Head-Tracking",
+  "Offline- und Hintergrundwiedergabe, Schlaftimer",
+  "Ein eigener Raum",
+  "Jeden Klang vorhören"
+ ],
+ "pro_title": "QuietRoom Pro",
+ "pro_note": "Einmaliger Kauf · kein Abo",
+ "pro_items": [
+  "Die Räume Waldcamp und Hütte am Meer",
+  "Alle 36 Klänge",
+  "Bis zu sechs Ebenen pro Raum",
+  "Bis zu zwanzig eigene Räume"
+ ],
+ "pro_price": "Den Preis zeigt dir der App Store in deiner Region an.",
+ "foot_rights": "© 2026 hiimobapps",
+ "foot_contact": "Kontakt",
+ "privacy_title": "Datenschutzerklärung",
+ "privacy_desc": "QuietRoom speichert deine Räume auf deinem Gerät. Keine Accounts, keine Werbung, kein Tracking, keine Analysen.",
+ "updated_label": "Zuletzt aktualisiert:",
+ "support_title": "Support",
+ "support_desc": "Hilfe zu QuietRoom: Käufe, Head-Tracking, Vorhören, Räume, Timer und Kontaktdaten.",
+ "privacy": [
+  [
+   "Zusammenfassung",
+   [
+    "QuietRoom wird von hiimobapps veröffentlicht. Die App hat keine Accounts, keine Werbung, kein Tracking und keine Analysen von Drittanbietern, und es gibt keinen QuietRoom-Server. Die App erhebt keine personenbezogenen Daten."
+   ]
+  ],
+  [
+   "Daten auf deinem Gerät",
+   [
+    "Die Klänge sind in der App enthalten. Deine Räume, Einstellungen und die letzte gültige Sicherung werden nur im lokalen Container der App auf deinem iPhone gespeichert. Es gibt keine Cloud-Synchronisierung. Gerätebackups, die du über Apple erstellst, können diese App-Daten je nach deinen Einstellungen enthalten.",
+    "Wenn du die App löschst, werden ihre Räume von deinem Gerät entfernt."
+   ]
+  ],
+  [
+   "Head-Tracking und Bewegung",
+   [
+    "Wenn du Head-Tracking mit kompatiblen Kopfhörern aktivierst, wird die Ausrichtung lokal vom Audiosystem von Apple verarbeitet. QuietRoom zeichnet keine Kopfhaltung und keinen Bewegungsverlauf auf, speichert sie nicht und lädt sie nicht hoch. Wenn du den Zugriff auf Bewegungsdaten ablehnst, funktioniert die normale Wiedergabe weiterhin."
+   ]
+  ],
+  [
+   "Käufe",
+   [
+    "Käufe und Wiederherstellungen wickelt Apple über StoreKit gemäß den Bedingungen von Apple ab. QuietRoom erhält nur den bestätigten Status deines Kaufs und sieht niemals Zahlungskartendaten. Die Wiederherstellung auf einer neuen Installation erfordert eine Internetverbindung."
+   ]
+  ],
+  [
+   "Berechtigungen",
+   [
+    "QuietRoom fordert keinen Zugriff auf Mikrofon, Standort, Kontakte, Fotos, Health oder Werbe-Tracking an."
+   ]
+  ],
+  [
+   "Kinder",
+   [
+    "QuietRoom erhebt wissentlich keine Informationen von irgendjemandem, auch nicht von Kindern."
+   ]
+  ],
+  [
+   "Kontakt",
+   [
+    "Wenn du uns eine E-Mail schreibst, verwenden wir deine Nachricht nur für die Antwort, und du kannst jederzeit verlangen, dass wir sie löschen. Kontakt: {email}."
+   ]
+  ],
+  [
+   "Änderungen",
+   [
+    "Wenn sich diese Erklärung ändert, wird die aktualisierte Fassung mit neuem Datum auf dieser Seite veröffentlicht. Bei Abweichungen zwischen Übersetzungen gilt die englische Fassung."
+   ]
+  ]
+ ],
+ "support": {
+  "intro": "Wir lesen jede Nachricht. Schreib uns und nenne dein iPhone-Modell, deine iOS-Version und was du gerade gemacht hast, als das Problem auftrat.",
+  "email_label": "E-Mail",
+  "faq_title": "Häufige Fragen",
+  "reqs_title": "Voraussetzungen",
+  "reqs": "iPhone mit iOS 18 oder neuer. Head-Tracking erfordert kompatible Kopfhörer und Zugriff auf Bewegungsdaten.",
+  "safety": "Die digitale Lautstärke ist kein Maß für den Schalldruck deiner Kopfhörer. Bitte hör in angenehmer Lautstärke."
+ },
+ "faq": [
+  [
+   "Wie stelle ich meinen Pro-Kauf wieder her?",
+   "Öffne die Einstellungen (die Taste ···) oder die Pro-Seite und tippe auf „Käufe wiederherstellen“. Verwende denselben Apple Account wie beim Kauf. Eine neue Installation braucht beim ersten Mal eine Internetverbindung."
+  ],
+  [
+   "Ist Pro ein Abo?",
+   "Nein. QuietRoom Pro ist ein einmaliger Kauf, der nicht verbraucht wird. Für Erstattungen gelten die Richtlinien von Apple."
+  ],
+  [
+   "Wie erstelle ich einen eigenen Raum?",
+   "Tippe auf den Raumtitel, um „Räume“ zu öffnen. Wähle „Neuen Raum hinzufügen“, um leer zu beginnen, oder „Aktuellen Raum sichern“, um deinen aktuellen Mix zu behalten. Änderungen werden automatisch gesichert. Kostenlos ist ein eigener Raum enthalten, mit Pro sind es zwanzig."
+  ],
+  [
+   "Wie bewege ich einen Klang nach oben, unten oder hinter mich?",
+   "Zieh sein Symbol um den Kopf; du kannst ihn über, unter oder hinter dich bewegen. Für genaue Werte tippe auf den Klang und stelle „Richtung“, „Höhe“ und „Entfernung“ ein. Zieh am Kopf selbst, um den Raum aus einem anderen Winkel zu betrachten; das ändert nicht, was du hörst."
+  ],
+  [
+   "Head-Tracking wird als nicht verfügbar angezeigt.",
+   "Head-Tracking braucht Kopfhörer, die es unterstützen, aktiviertes 3D-Audio für die aktuelle Ausgabe und Zugriff auf Bewegungsdaten für QuietRoom. Es startet, während ein Raum abgespielt wird. Normale Kopfhörer bieten weiterhin festen räumlichen Klang, Lautsprecher einfache Wiedergabe."
+  ],
+  [
+   "Wie lange dauert das Vorhören?",
+   "So lange du möchtest. Das Vorhören läuft, bis du auf „Stoppen“ tippst, die Klangbibliothek schließt oder die App verlässt. Jeder Klang kann vorgehört werden, auch Pro-Klänge. Ein laufender Raum wird währenddessen leiser."
+  ],
+  [
+   "Donner oder Vögel kommen zu selten oder zu oft.",
+   "Tippe im Raum auf den Klang und wähle unter „Häufigkeit“ „Selten“, „Normal“ oder „Häufig“. Bei Schritten kannst du außerdem zwischen vereinzelten Schritten und gleichmäßigem Gehen wählen."
+  ],
+  [
+   "Spielt QuietRoom im Hintergrund?",
+   "Ja. Die Wiedergabe läuft auf dem Sperrbildschirm und im Hintergrund weiter, mit Steuerelementen auf dem Sperrbildschirm. Aktiviere „Mit anderem Audio mischen“ in den Einstellungen, um zusammen mit anderen Apps zu hören."
+  ],
+  [
+   "Wie funktioniert der Schlaftimer?",
+   "Wähle 15, 30, 60 oder 120 Minuten. Der Raum wird in den letzten zehn Sekunden leiser und stoppt dann. Manuelles Pausieren schaltet den Timer aus."
+  ],
+  [
+   "Wo werden meine Räume gespeichert? Wie lösche ich sie?",
+   "Nur auf deinem iPhone. Lösche einen Raum über „Räume → ··· → Löschen“ oder lösche die App, um alles zu entfernen."
+  ]
+ ]
+}

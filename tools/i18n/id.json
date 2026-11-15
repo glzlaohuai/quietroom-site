@@ -1,0 +1,183 @@
+{
+ "meta": {
+  "lang": "id",
+  "locale": "id_ID",
+  "label": "Bahasa Indonesia"
+ },
+ "name": "QuietRoom",
+ "nav": [
+  "Fitur",
+  "Dukungan",
+  "Privasi"
+ ],
+ "language_label": "Bahasa",
+ "title": "QuietRoom: Suara alam spasial untuk fokus dan istirahat",
+ "desc": "Tata suara hujan, hutan, air, dan api di sekitar Anda dalam 3D. 36 suara alam bawaan, pemutaran offline, timer tidur, dan pelacakan kepala opsional di iPhone.",
+ "hero_kicker": "Untuk iPhone · iOS 18 atau lebih baru",
+ "hero_title": "Sedikit tenang, di sini saja.",
+ "hero_body": "QuietRoom menempatkan suara alam di sekitar Anda: hujan di jendela sebelah kiri, aliran sungai di depan, api tepat di belakang. Kenakan headphone, mulai mendengarkan, dan tata ruangan hingga terasa pas.",
+ "cta_soon": "Segera hadir di App Store",
+ "cta": "Unduh di App Store",
+ "cta_support": "Dapatkan dukungan",
+ "screenshots_label": "Tangkapan layar",
+ "shots": {
+  "home-playing": "Ruang baca hujan sedang diputar, dengan suara yang ditempatkan di sekitar pendengar 3D",
+  "library": "Memutar pratinjau suara di pustaka suara",
+  "source-edit": "Mengatur seberapa sering guntur datang, dan dari mana arahnya",
+  "rooms": "Ruangan pilihan, ruangan Anda sendiri, dan ruangan kosong baru"
+ },
+ "features_title": "Semua yang dibutuhkan ruangan yang tenang",
+ "features": [
+  [
+   "Suara dalam ruang nyata",
+   "Seret setiap suara di sekitar pendengar 3D: kiri atau kanan, depan atau belakang, atas atau bawah. Atau atur arah, ketinggian, dan jarak secara tepat. Latar yang luas tetap stabil di sekitar Anda."
+  ],
+  [
+   "36 suara alam",
+   "Hujan, guntur, burung, sungai, ombak, angin, serangga, langkah kaki, dan api. Rekaman bervariasi secara alami, sehingga ruangan tidak pernah terasa seperti loop pendek. Pratinjau suara apa pun, termasuk suara Pro, sebelum menambahkannya."
+  ],
+  [
+   "Suara sesekali, sesuai ritme Anda",
+   "Guntur, kicau burung, tetesan air, dan langkah kaki datang sesekali. Pilih Jarang, Normal, atau Sering untuk masing-masing. Langkah kaki juga bisa berjalan terus."
+  ],
+  [
+   "Ruangan milik Anda",
+   "Mulai dari Ruang baca hujan, Kemah hutan, atau Pondok tepi laut, atau mulai dengan ruangan kosong. Perubahan tersimpan otomatis; ubah nama, duplikat, atau timpa ruangan tersimpan kapan saja."
+  ],
+  [
+   "Pelacakan kepala",
+   "Dengan headphone yang kompatibel, suara spasial tetap di tempatnya saat Anda menoleh. Headphone biasa tetap memberikan suara spasial tetap."
+  ],
+  [
+   "Offline, privat, tenang",
+   "Tanpa akun, tanpa iklan, tanpa analitik. Suara sudah disertakan, sehingga mendengarkan, mengedit, dan menyimpan berfungsi tanpa koneksi. Timer tidur memudar dengan lembut."
+  ]
+ ],
+ "pricing_title": "Mulai gratis. Sekali beli untuk semuanya.",
+ "free_title": "Gratis",
+ "free_items": [
+  "Ruangan Ruang baca hujan lengkap",
+  "Tiga suara, hingga tiga lapisan",
+  "Penempatan 3D dan pelacakan kepala",
+  "Pemutaran offline dan di latar belakang, timer tidur",
+  "Satu ruangan milik Anda",
+  "Pratinjau semua suara"
+ ],
+ "pro_title": "QuietRoom Pro",
+ "pro_note": "Pembelian satu kali · tanpa langganan",
+ "pro_items": [
+  "Ruangan Kemah hutan dan Pondok tepi laut",
+  "Semua 36 suara",
+  "Hingga enam lapisan per ruangan",
+  "Hingga dua puluh ruangan milik Anda"
+ ],
+ "pro_price": "Harga ditampilkan oleh App Store di wilayah Anda.",
+ "foot_rights": "© 2026 hiimobapps",
+ "foot_contact": "Kontak",
+ "privacy_title": "Kebijakan Privasi",
+ "privacy_desc": "QuietRoom menyimpan ruangan Anda di perangkat Anda. Tanpa akun, iklan, pelacakan, atau analitik.",
+ "updated_label": "Terakhir diperbarui:",
+ "support_title": "Dukungan",
+ "support_desc": "Bantuan untuk QuietRoom: pembelian, pelacakan kepala, pratinjau suara, ruangan, timer, dan informasi kontak.",
+ "privacy": [
+  [
+   "Ringkasan",
+   [
+    "QuietRoom diterbitkan oleh hiimobapps. App ini tidak memiliki akun, iklan, pelacakan, atau analitik pihak ketiga, dan tidak ada server QuietRoom. App ini tidak mengumpulkan data pribadi."
+   ]
+  ],
+  [
+   "Data di perangkat Anda",
+   [
+    "Suara disertakan bersama app. Ruangan, pengaturan, dan cadangan valid terakhir Anda hanya disimpan di kontainer lokal app di iPhone Anda. Tidak ada sinkronisasi cloud. Cadangan perangkat yang Anda buat melalui Apple dapat menyertakan data app ini sesuai pengaturan Anda sendiri.",
+    "Menghapus app akan menghapus ruangannya dari perangkat Anda."
+   ]
+  ],
+  [
+   "Pelacakan kepala dan gerakan",
+   [
+    "Saat Anda mengaktifkan pelacakan kepala dengan headphone yang kompatibel, orientasi diproses secara lokal oleh sistem audio Apple. QuietRoom tidak merekam, menyimpan, atau mengunggah posisi kepala maupun riwayat gerakan. Menolak akses Gerakan tidak menghalangi pemutaran biasa."
+   ]
+  ],
+  [
+   "Pembelian",
+   [
+    "Pembelian dan pemulihan ditangani oleh Apple melalui StoreKit sesuai ketentuan Apple. QuietRoom hanya menerima status terverifikasi dari pembelian Anda dan tidak pernah melihat detail kartu pembayaran. Pemulihan pada instalasi baru memerlukan koneksi internet."
+   ]
+  ],
+  [
+   "Izin",
+   [
+    "QuietRoom tidak meminta akses mikrofon, lokasi, kontak, foto, kesehatan, atau pelacakan iklan."
+   ]
+  ],
+  [
+   "Anak-anak",
+   [
+    "QuietRoom tidak dengan sengaja mengumpulkan informasi dari siapa pun, termasuk anak-anak."
+   ]
+  ],
+  [
+   "Menghubungi kami",
+   [
+    "Jika Anda mengirim email kepada kami, kami hanya menggunakan pesan Anda untuk membalas, dan Anda dapat meminta kami menghapusnya kapan saja. Kontak: {email}."
+   ]
+  ],
+  [
+   "Perubahan",
+   [
+    "Jika kebijakan ini berubah, versi terbaru akan dipublikasikan di halaman ini dengan tanggal baru. Jika terdapat perbedaan terjemahan, versi bahasa Inggris yang berlaku."
+   ]
+  ]
+ ],
+ "support": {
+  "intro": "Kami membaca setiap pesan. Kirimkan pesan kepada kami dan sertakan model iPhone, versi iOS, dan apa yang sedang Anda lakukan saat masalah terjadi.",
+  "email_label": "Email",
+  "faq_title": "Pertanyaan umum",
+  "reqs_title": "Persyaratan",
+  "reqs": "iPhone dengan iOS 18 atau lebih baru. Pelacakan kepala memerlukan headphone yang kompatibel dan akses Gerakan.",
+  "safety": "Volume digital bukan ukuran tekanan suara headphone. Dengarkan pada tingkat yang nyaman."
+ },
+ "faq": [
+  [
+   "Bagaimana cara memulihkan pembelian Pro saya?",
+   "Buka Pengaturan (tombol ···) atau halaman Pro, lalu ketuk Pulihkan pembelian. Gunakan Akun Apple yang sama dengan saat membeli. Instalasi baru memerlukan koneksi internet untuk pertama kalinya."
+  ],
+  [
+   "Apakah Pro berupa langganan?",
+   "Tidak. QuietRoom Pro adalah pembelian satu kali yang tidak habis pakai. Pengembalian dana mengikuti kebijakan Apple."
+  ],
+  [
+   "Bagaimana cara membuat ruangan sendiri?",
+   "Ketuk judul ruangan untuk membuka Ruangan. Pilih Tambah ruangan baru untuk memulai dari kosong, atau Simpan ruangan saat ini untuk menyimpan campuran Anda saat ini. Perubahan tersimpan otomatis. Versi gratis mencakup satu ruangan milik Anda; Pro memungkinkan dua puluh."
+  ],
+  [
+   "Bagaimana cara memindahkan suara ke atas, ke bawah, atau ke belakang saya?",
+   "Seret ikonnya di sekitar kepala; Anda dapat memindahkannya ke atas, ke bawah, atau ke belakang Anda. Untuk nilai yang tepat, ketuk suara tersebut dan atur Arah, Ketinggian, dan Jarak. Seret kepalanya untuk melihat ruangan dari sudut lain; ini tidak mengubah apa yang Anda dengar."
+  ],
+  [
+   "Pelacakan kepala tertulis tidak tersedia.",
+   "Pelacakan kepala memerlukan headphone yang mendukungnya, audio spasial yang aktif untuk output saat ini, dan akses Gerakan untuk QuietRoom. Fitur ini dimulai saat ruangan sedang diputar. Headphone biasa tetap memberikan suara spasial tetap, dan speaker memberikan pemutaran dasar."
+  ],
+  [
+   "Berapa lama pratinjau suara berlangsung?",
+   "Selama yang Anda mau. Pratinjau diputar hingga Anda mengetuk Hentikan, menutup pustaka suara, atau keluar dari app. Suara apa pun dapat dipratinjau, termasuk suara Pro. Ruangan yang sedang diputar akan mengecilkan volumenya selama pratinjau."
+  ],
+  [
+   "Guntur atau burung terlalu jarang, atau terlalu sering.",
+   "Ketuk suara di ruangan Anda dan pilih Jarang, Normal, atau Sering di bawah Seberapa sering. Langkah kaki juga menawarkan langkah sesekali atau berjalan terus."
+  ],
+  [
+   "Apakah QuietRoom dapat diputar di latar belakang?",
+   "Ya. Pemutaran berlanjut di layar terkunci dan di latar belakang, dengan kontrol di layar terkunci. Aktifkan Campur dengan audio lain di Pengaturan untuk memutar bersama app lain."
+  ],
+  [
+   "Bagaimana cara kerja timer tidur?",
+   "Pilih 15, 30, 60, atau 120 menit. Ruangan memudar selama sepuluh detik terakhir, lalu berhenti. Menjeda secara manual akan mematikan timer."
+  ],
+  [
+   "Di mana ruangan saya disimpan? Bagaimana cara menghapusnya?",
+   "Hanya di iPhone Anda. Hapus ruangan melalui Ruangan → ··· → Hapus, atau hapus app untuk menghapus semuanya."
+  ]
+ ]
+}

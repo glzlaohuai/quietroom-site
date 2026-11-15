@@ -1,0 +1,183 @@
+{
+ "meta": {
+  "lang": "fr",
+  "locale": "fr_FR",
+  "label": "Français"
+ },
+ "name": "QuietRoom",
+ "nav": [
+  "Fonctionnalités",
+  "Assistance",
+  "Confidentialité"
+ ],
+ "language_label": "Langue",
+ "title": "QuietRoom : sons de nature spatialisés pour la concentration et le repos",
+ "desc": "Placez autour de vous, en 3D, la pluie, la forêt, l’eau et le feu. 36 sons de nature inclus, lecture hors ligne, minuteur de sommeil et suivi de la tête en option sur iPhone.",
+ "hero_kicker": "Pour iPhone · iOS 18 ou version ultérieure",
+ "hero_title": "Un peu de calme, ici même.",
+ "hero_body": "QuietRoom place des sons de nature autour de vous : la pluie sur la fenêtre à votre gauche, un ruisseau devant, un feu juste derrière. Mettez vos écouteurs, lancez l’écoute et façonnez la pièce jusqu’à ce qu’elle vous ressemble.",
+ "cta_soon": "Bientôt sur l’App Store",
+ "cta": "Télécharger dans l’App Store",
+ "cta_support": "Obtenir de l’aide",
+ "screenshots_label": "Captures d’écran",
+ "shots": {
+  "home-playing": "Lecture de Bureau sous la pluie, avec des sons placés autour d’un auditeur en 3D",
+  "library": "Écoute d’un son dans la bibliothèque de sons",
+  "source-edit": "Réglage de la fréquence du tonnerre et de sa provenance",
+  "rooms": "Pièces proposées, vos propres pièces et une nouvelle pièce vide"
+ },
+ "features_title": "Tout ce qu’il faut pour une pièce calme",
+ "features": [
+  [
+   "Des sons dans un vrai espace",
+   "Faites glisser chaque son autour d’un auditeur en 3D : à gauche ou à droite, devant ou derrière, au-dessus ou en dessous. Ou réglez précisément la direction, l’élévation et la distance. Les fonds sonores larges restent stables autour de vous."
+  ],
+  [
+   "36 sons naturels",
+   "Pluie, tonnerre, oiseaux, ruisseaux, vagues, vent, insectes, pas et feu. Les enregistrements varient naturellement : la pièce ne donne jamais l’impression d’une courte boucle. Écoutez n’importe quel son, Pro compris, avant de l’ajouter."
+  ],
+  [
+   "Des sons occasionnels, à votre rythme",
+   "Le tonnerre, le chant des oiseaux, les gouttes et les pas surviennent de temps en temps. Choisissez Rare, Normale ou Fréquente pour chacun. Les pas peuvent aussi former une marche continue."
+  ],
+  [
+   "Vos propres pièces",
+   "Partez de Bureau sous la pluie, Camp en forêt ou Cabane en bord de mer, ou commencez avec une pièce vide. Les modifications sont enregistrées automatiquement ; renommez, dupliquez ou remplacez vos pièces à tout moment."
+  ],
+  [
+   "Suivi de la tête",
+   "Avec des écouteurs compatibles, les sons spatiaux restent en place quand vous tournez la tête. Les écouteurs classiques offrent tout de même un son spatial fixe."
+  ],
+  [
+   "Hors ligne, privé, paisible",
+   "Pas de compte, pas de publicité, pas d’analyse. Les sons sont inclus : l’écoute, la modification et l’enregistrement fonctionnent sans connexion. Un minuteur de sommeil baisse le son en douceur."
+  ]
+ ],
+ "pricing_title": "Gratuit pour commencer. Un seul achat pour tout.",
+ "free_title": "Gratuit",
+ "free_items": [
+  "La pièce Bureau sous la pluie complète",
+  "Trois sons, jusqu’à trois couches",
+  "Placement 3D et suivi de la tête",
+  "Lecture hors ligne et en arrière-plan, minuteur de sommeil",
+  "Une pièce à vous",
+  "Écoute de tous les sons"
+ ],
+ "pro_title": "QuietRoom Pro",
+ "pro_note": "Achat unique · sans abonnement",
+ "pro_items": [
+  "Les pièces Camp en forêt et Cabane en bord de mer",
+  "Les 36 sons",
+  "Jusqu’à six couches par pièce",
+  "Jusqu’à vingt pièces à vous"
+ ],
+ "pro_price": "Le prix est indiqué par l’App Store de votre région.",
+ "foot_rights": "© 2026 hiimobapps",
+ "foot_contact": "Contact",
+ "privacy_title": "Politique de confidentialité",
+ "privacy_desc": "QuietRoom conserve vos pièces sur votre appareil. Ni compte, ni publicité, ni suivi, ni analyse.",
+ "updated_label": "Dernière mise à jour :",
+ "support_title": "Assistance",
+ "support_desc": "Aide pour QuietRoom : achats, suivi de la tête, écoute des sons, pièces, minuteurs et coordonnées.",
+ "privacy": [
+  [
+   "En bref",
+   [
+    "QuietRoom est publiée par hiimobapps. L’app n’a ni compte, ni publicité, ni suivi, ni outil d’analyse tiers, et il n’existe aucun serveur QuietRoom. L’app ne collecte aucune donnée personnelle."
+   ]
+  ],
+  [
+   "Données sur votre appareil",
+   [
+    "Les sons sont inclus dans l’app. Vos pièces, vos réglages et la dernière sauvegarde valide sont stockés uniquement dans le conteneur local de l’app sur votre iPhone. Il n’y a aucune synchronisation dans le cloud. Les sauvegardes de l’appareil que vous effectuez via Apple peuvent inclure ces données selon vos propres réglages.",
+    "Supprimer l’app efface ses pièces de votre appareil."
+   ]
+  ],
+  [
+   "Suivi de la tête et mouvements",
+   [
+    "Lorsque vous activez le suivi de la tête avec des écouteurs compatibles, l’orientation est traitée localement par le système audio d’Apple. QuietRoom n’enregistre, ne stocke ni n’envoie l’historique de la position de la tête ou des mouvements. Refuser l’accès à Mouvements n’empêche pas la lecture normale."
+   ]
+  ],
+  [
+   "Achats",
+   [
+    "Les achats et leur restauration sont gérés par Apple via StoreKit, selon les conditions d’Apple. QuietRoom reçoit uniquement le statut vérifié de votre achat et n’a jamais accès aux données de votre carte de paiement. La restauration sur une nouvelle installation nécessite une connexion à Internet."
+   ]
+  ],
+  [
+   "Autorisations",
+   [
+    "QuietRoom ne demande pas l’accès au micro, à la localisation, aux contacts, aux photos, aux données de santé ni au suivi publicitaire."
+   ]
+  ],
+  [
+   "Enfants",
+   [
+    "QuietRoom ne collecte sciemment aucune information auprès de quiconque, y compris les enfants."
+   ]
+  ],
+  [
+   "Nous contacter",
+   [
+    "Si vous nous écrivez, nous utilisons votre message uniquement pour vous répondre, et vous pouvez nous demander de le supprimer à tout moment. Contact : {email}."
+   ]
+  ],
+  [
+   "Modifications",
+   [
+    "Si cette politique change, la version mise à jour sera publiée sur cette page avec une nouvelle date. En cas de divergence entre les traductions, la version anglaise prévaut."
+   ]
+  ]
+ ],
+ "support": {
+  "intro": "Nous lisons chaque message. Écrivez-nous en indiquant votre modèle d’iPhone, votre version d’iOS et ce que vous faisiez lorsque le problème est survenu.",
+  "email_label": "E-mail",
+  "faq_title": "Questions fréquentes",
+  "reqs_title": "Configuration requise",
+  "reqs": "iPhone sous iOS 18 ou version ultérieure. Le suivi de la tête nécessite des écouteurs compatibles et l’accès à Mouvements.",
+  "safety": "Le volume numérique ne mesure pas la pression sonore dans les écouteurs. Écoutez à un niveau confortable."
+ },
+ "faq": [
+  [
+   "Comment restaurer mon achat Pro ?",
+   "Ouvrez les Réglages (le bouton ···) ou la page Pro, puis touchez Restaurer les achats. Utilisez le même compte Apple que lors de l’achat. Une nouvelle installation nécessite une connexion à Internet la première fois."
+  ],
+  [
+   "Pro est-il un abonnement ?",
+   "Non. QuietRoom Pro est un achat unique et non consommable. Les remboursements suivent les règles d’Apple."
+  ],
+  [
+   "Comment créer ma propre pièce ?",
+   "Touchez le titre de la pièce pour ouvrir Pièces. Choisissez Ajouter une pièce pour partir de zéro, ou Enregistrer la pièce actuelle pour garder votre mélange actuel. Les modifications sont enregistrées automatiquement. La version gratuite comprend une pièce à vous ; Pro en permet vingt."
+  ],
+  [
+   "Comment placer un son plus haut, plus bas ou derrière moi ?",
+   "Faites glisser son icône autour de la tête : vous pouvez la placer au-dessus, en dessous ou derrière vous. Pour des valeurs précises, touchez le son et réglez Direction, Élévation et Distance. Faites glisser la tête elle-même pour voir la pièce sous un autre angle ; cela ne change pas ce que vous entendez."
+  ],
+  [
+   "Le suivi de la tête est indiqué comme indisponible.",
+   "Le suivi de la tête nécessite des écouteurs compatibles, l’audio spatial activé pour la sortie actuelle et l’accès à Mouvements pour QuietRoom. Il démarre pendant la lecture d’une pièce. Les écouteurs classiques offrent tout de même un son spatial fixe, et les haut-parleurs une lecture de base."
+  ],
+  [
+   "Combien de temps dure l’écoute d’un son ?",
+   "Aussi longtemps que vous le souhaitez. L’écoute continue jusqu’à ce que vous touchiez Arrêter, fermiez la bibliothèque de sons ou quittiez l’app. Tous les sons peuvent être écoutés, y compris les sons Pro. Une pièce en cours de lecture baisse son volume pendant l’écoute."
+  ],
+  [
+   "Le tonnerre ou les oiseaux reviennent trop rarement, ou trop souvent.",
+   "Touchez le son dans votre pièce et choisissez Rare, Normale ou Fréquente sous Fréquence. Pour les pas, vous pouvez aussi choisir des pas occasionnels ou une marche continue."
+  ],
+  [
+   "QuietRoom fonctionne-t-elle en arrière-plan ?",
+   "Oui. La lecture continue sur l’écran verrouillé et en arrière-plan, avec des commandes sur l’écran verrouillé. Activez Mélanger avec d’autres sources audio dans les Réglages pour écouter en même temps que d’autres apps."
+  ],
+  [
+   "Comment fonctionne le minuteur de sommeil ?",
+   "Choisissez 15, 30, 60 ou 120 minutes. Le son de la pièce s’estompe pendant les dix dernières secondes, puis s’arrête. Une pause manuelle désactive le minuteur."
+  ],
+  [
+   "Où sont stockées mes pièces ? Comment les supprimer ?",
+   "Uniquement sur votre iPhone. Supprimez une pièce via Pièces → ··· → Supprimer, ou supprimez l’app pour tout effacer."
+  ]
+ ]
+}

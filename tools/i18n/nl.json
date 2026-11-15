@@ -1,0 +1,183 @@
+{
+ "meta": {
+  "lang": "nl",
+  "locale": "nl_NL",
+  "label": "Nederlands"
+ },
+ "name": "QuietRoom",
+ "nav": [
+  "Functies",
+  "Ondersteuning",
+  "Privacy"
+ ],
+ "language_label": "Taal",
+ "title": "QuietRoom: ruimtelijke natuurgeluiden voor focus en rust",
+ "desc": "Plaats geluiden van regen, bos, water en vuur in 3D om je heen. 36 ingebouwde natuurgeluiden, offline afspelen, slaaptimer en optionele hoofdtracking op de iPhone.",
+ "hero_kicker": "Voor iPhone · iOS 18 of nieuwer",
+ "hero_title": "Een beetje rust, hier en nu.",
+ "hero_body": "QuietRoom plaatst natuurgeluiden om je heen: regen op het raam links van je, een beek voor je, een vuur vlak achter je. Zet je koptelefoon op, begin met luisteren en richt de kamer in tot het goed voelt.",
+ "cta_soon": "Binnenkort in de App Store",
+ "cta": "Download in de App Store",
+ "cta_support": "Hulp krijgen",
+ "screenshots_label": "Schermafbeeldingen",
+ "shots": {
+  "home-playing": "Studeerkamer in de regen speelt af, met geluiden rond een 3D-luisteraar",
+  "library": "Een voorbeeld beluisteren in de geluidsbibliotheek",
+  "source-edit": "Instellen hoe vaak het onweer aanrolt en waar het vandaan komt",
+  "rooms": "Uitgelichte kamers, je eigen kamers en een nieuwe lege kamer"
+ },
+ "features_title": "Alles wat een rustige kamer nodig heeft",
+ "features": [
+  [
+   "Geluid in echte ruimte",
+   "Sleep elk geluid rond een 3D-luisteraar: links of rechts, voor of achter je, boven of onder je. Of stel richting, hoogte en afstand precies in. Brede achtergronden blijven stil om je heen staan."
+  ],
+  [
+   "36 natuurgeluiden",
+   "Regen, onweer, vogels, beken, golven, wind, insecten, voetstappen en vuur. De opnamen variëren natuurlijk, zodat de kamer nooit als een korte loop klinkt. Beluister van elk geluid een voorbeeld, ook Pro, voordat je het toevoegt."
+  ],
+  [
+   "Af en toe, in jouw tempo",
+   "Onweer, vogelzang, druppels en voetstappen komen af en toe voorbij. Kies per geluid Zelden, Normaal of Vaak. Voetstappen kunnen ook doorlopend wandelen."
+  ],
+  [
+   "Je eigen kamers",
+   "Begin met Studeerkamer in de regen, Boskamp of Huisje aan zee, of start met een lege kamer. Wijzigingen worden automatisch bewaard; geef bewaarde kamers op elk moment een andere naam, dupliceer of vervang ze."
+  ],
+  [
+   "Hoofdtracking",
+   "Met een geschikte koptelefoon blijven ruimtelijke geluiden op hun plek als je je hoofd draait. Een gewone koptelefoon geeft nog steeds vast ruimtelijk geluid."
+  ],
+  [
+   "Offline, privé, rustig",
+   "Geen account, geen advertenties, geen analytics. De geluiden zitten in de app, dus luisteren, bewerken en bewaren werkt zonder verbinding. Een slaaptimer laat het geluid zacht wegvloeien."
+  ]
+ ],
+ "pricing_title": "Gratis beginnen. Eén aankoop voor alles.",
+ "free_title": "Gratis",
+ "free_items": [
+  "De complete kamer Studeerkamer in de regen",
+  "Drie geluiden, tot drie lagen",
+  "Plaatsing in 3D en hoofdtracking",
+  "Offline en op de achtergrond afspelen, slaaptimer",
+  "Eén eigen kamer",
+  "Voorbeeld van elk geluid"
+ ],
+ "pro_title": "QuietRoom Pro",
+ "pro_note": "Eenmalige aankoop · geen abonnement",
+ "pro_items": [
+  "De kamers Boskamp en Huisje aan zee",
+  "Alle 36 geluiden",
+  "Tot zes lagen per kamer",
+  "Tot twintig eigen kamers"
+ ],
+ "pro_price": "De App Store toont de prijs voor jouw regio.",
+ "foot_rights": "© 2026 hiimobapps",
+ "foot_contact": "Contact",
+ "privacy_title": "Privacybeleid",
+ "privacy_desc": "QuietRoom houdt je kamers op je apparaat. Geen accounts, advertenties, tracking of analytics.",
+ "updated_label": "Laatst bijgewerkt:",
+ "support_title": "Ondersteuning",
+ "support_desc": "Hulp bij QuietRoom: aankopen, hoofdtracking, voorbeelden beluisteren, kamers, timers en contactgegevens.",
+ "privacy": [
+  [
+   "Samenvatting",
+   [
+    "QuietRoom wordt uitgegeven door hiimobapps. De app heeft geen accounts, advertenties, tracking of analytics van derden, en er is geen QuietRoom-server. De app verzamelt geen persoonsgegevens."
+   ]
+  ],
+  [
+   "Gegevens op je apparaat",
+   [
+    "De geluiden zitten in de app. Je kamers, instellingen en de laatste geldige reservekopie worden alleen in de lokale opslag van de app op je iPhone bewaard. Er is geen cloudsynchronisatie. Reservekopieën van je apparaat die je via Apple maakt, kunnen deze appgegevens bevatten, afhankelijk van je eigen instellingen.",
+    "Als je de app verwijdert, worden de kamers van je apparaat verwijderd."
+   ]
+  ],
+  [
+   "Hoofdtracking en beweging",
+   [
+    "Als je hoofdtracking inschakelt met een geschikte koptelefoon, wordt de oriëntatie lokaal verwerkt door het audiosysteem van Apple. QuietRoom legt geen hoofdhouding of bewegingsgeschiedenis vast en bewaart of uploadt die niet. Als je geen toegang tot Beweging geeft, werkt gewoon afspelen nog steeds."
+   ]
+  ],
+  [
+   "Aankopen",
+   [
+    "Aankopen en herstel worden door Apple afgehandeld via StoreKit, onder de voorwaarden van Apple. QuietRoom ontvangt alleen de geverifieerde status van je aankoop en ziet nooit betaalkaartgegevens. Herstellen op een nieuwe installatie vereist een internetverbinding."
+   ]
+  ],
+  [
+   "Toestemmingen",
+   [
+    "QuietRoom vraagt geen toegang tot microfoon, locatie, contacten, foto's, gezondheid of advertentietracking."
+   ]
+  ],
+  [
+   "Kinderen",
+   [
+    "QuietRoom verzamelt niet bewust gegevens van wie dan ook, ook niet van kinderen."
+   ]
+  ],
+  [
+   "Contact met ons",
+   [
+    "Als je ons mailt, gebruiken we je bericht alleen om te antwoorden, en je kunt ons op elk moment vragen het te verwijderen. Contact: {email}."
+   ]
+  ],
+  [
+   "Wijzigingen",
+   [
+    "Als dit beleid verandert, wordt de bijgewerkte versie met een nieuwe datum op deze pagina geplaatst. Als vertalingen verschillen, geldt de Engelse versie."
+   ]
+  ]
+ ],
+ "support": {
+  "intro": "We lezen elk bericht. Schrijf ons en vermeld je iPhone-model, iOS-versie en wat je aan het doen was toen het probleem optrad.",
+  "email_label": "E-mail",
+  "faq_title": "Veelgestelde vragen",
+  "reqs_title": "Vereisten",
+  "reqs": "iPhone met iOS 18 of nieuwer. Hoofdtracking vereist een geschikte koptelefoon en toegang tot Beweging.",
+  "safety": "Digitaal volume is geen maat voor de geluidsdruk van je koptelefoon. Luister op een prettig volume."
+ },
+ "faq": [
+  [
+   "Hoe herstel ik mijn Pro-aankoop?",
+   "Open Instellingen (de knop ···) of de Pro-pagina en tik op ‘Herstel aankopen’. Gebruik hetzelfde Apple Account waarmee je hebt gekocht. Een nieuwe installatie heeft de eerste keer een internetverbinding nodig."
+  ],
+  [
+   "Is Pro een abonnement?",
+   "Nee. QuietRoom Pro is een eenmalige, niet-verbruikbare aankoop. Voor terugbetalingen geldt het beleid van Apple."
+  ],
+  [
+   "Hoe maak ik mijn eigen kamer?",
+   "Tik op de naam van de kamer om ‘Kamers’ te openen. Kies ‘Voeg nieuwe kamer toe’ om leeg te beginnen, of ‘Bewaar huidige kamer’ om je huidige mix te houden. Wijzigingen worden automatisch bewaard. Gratis krijg je één eigen kamer; met Pro twintig."
+  ],
+  [
+   "Hoe zet ik een geluid boven, onder of achter me?",
+   "Sleep het symbool rond het hoofd; je kunt het boven, onder of achter je zetten. Voor exacte waarden tik je op het geluid en stel je ‘Richting’, ‘Hoogte’ en ‘Afstand’ in. Sleep het hoofd zelf om de kamer vanuit een andere hoek te bekijken; dat verandert niets aan wat je hoort."
+  ],
+  [
+   "Hoofdtracking is niet beschikbaar.",
+   "Hoofdtracking vereist een koptelefoon die het ondersteunt, ruimtelijke audio ingeschakeld voor de huidige uitvoer en toegang tot Beweging voor QuietRoom. Het start zodra een kamer speelt. Een gewone koptelefoon geeft nog steeds vast ruimtelijk geluid en luidsprekers geven eenvoudige weergave."
+  ],
+  [
+   "Hoe lang duurt een voorbeeld?",
+   "Zo lang je wilt. Een voorbeeld speelt tot je op ‘Stop’ tikt, de geluidsbibliotheek sluit of de app verlaat. Van elk geluid kun je een voorbeeld beluisteren, ook van Pro-geluiden. Een spelende kamer wordt tijdens het voorbeeld zachter."
+  ],
+  [
+   "Onweer of vogels komen te zelden of te vaak.",
+   "Tik op het geluid in je kamer en kies onder ‘Hoe vaak’ voor ‘Zelden’, ‘Normaal’ of ‘Vaak’. Voor voetstappen kun je ook kiezen tussen losse stappen of een doorlopende wandeling."
+  ],
+  [
+   "Speelt QuietRoom op de achtergrond?",
+   "Ja. Het afspelen gaat door op het toegangsscherm en op de achtergrond, met bediening op het toegangsscherm. Zet ‘Mix met andere audio’ aan in Instellingen om samen met andere apps te spelen."
+  ],
+  [
+   "Hoe werkt de slaaptimer?",
+   "Kies 15, 30, 60 of 120 minuten. De kamer wordt in de laatste tien seconden zachter en stopt dan. Handmatig pauzeren zet de timer uit."
+  ],
+  [
+   "Waar worden mijn kamers bewaard? Hoe verwijder ik ze?",
+   "Alleen op je iPhone. Verwijder een kamer via ‘Kamers → ··· → Verwijder’, of verwijder de app om alles te wissen."
+  ]
+ ]
+}

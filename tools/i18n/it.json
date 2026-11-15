@@ -1,0 +1,183 @@
+{
+ "meta": {
+  "lang": "it",
+  "locale": "it_IT",
+  "label": "Italiano"
+ },
+ "name": "QuietRoom",
+ "nav": [
+  "Funzioni",
+  "Supporto",
+  "Privacy"
+ ],
+ "language_label": "Lingua",
+ "title": "QuietRoom: suoni della natura spaziali per concentrazione e riposo",
+ "desc": "Disponi intorno a te in 3D i suoni di pioggia, bosco, acqua e fuoco. 36 suoni della natura inclusi, riproduzione offline, timer di spegnimento e rilevamento della testa opzionale su iPhone.",
+ "hero_kicker": "Per iPhone · iOS 18 o versioni successive",
+ "hero_title": "Un po’ di quiete, proprio qui.",
+ "hero_body": "QuietRoom dispone i suoni della natura intorno a te: la pioggia sulla finestra alla tua sinistra, un ruscello davanti, un fuoco appena dietro. Indossa le cuffie, avvia l’ascolto e modella la stanza finché non ti sembra giusta.",
+ "cta_soon": "Presto su App Store",
+ "cta": "Scarica su App Store",
+ "cta_support": "Richiedi assistenza",
+ "screenshots_label": "Screenshot",
+ "shots": {
+  "home-playing": "Studio sotto la pioggia in riproduzione, con i suoni disposti intorno a un ascoltatore 3D",
+  "library": "Anteprima di un suono nella libreria suoni",
+  "source-edit": "Impostazione della frequenza dei tuoni e della loro provenienza",
+  "rooms": "Stanze selezionate, le tue stanze e una nuova stanza vuota"
+ },
+ "features_title": "Tutto ciò che serve a una stanza tranquilla",
+ "features": [
+  [
+   "Suoni in uno spazio reale",
+   "Trascina ogni suono intorno a un ascoltatore 3D: a sinistra o a destra, davanti o dietro, sopra o sotto. Oppure imposta con precisione direzione, elevazione e distanza. I sottofondi ampi restano fermi intorno a te."
+  ],
+  [
+   "36 suoni naturali",
+   "Pioggia, tuoni, uccelli, ruscelli, onde, vento, insetti, passi e fuoco. Le registrazioni variano in modo naturale, così la stanza non sembra mai un breve loop. Ascolta in anteprima qualsiasi suono, anche Pro, prima di aggiungerlo."
+  ],
+  [
+   "Suoni occasionali, al tuo ritmo",
+   "Tuoni, canti di uccelli, gocce e passi arrivano di tanto in tanto. Scegli Rara, Normale o Frequente per ciascuno. I passi possono anche diventare una camminata continua."
+  ],
+  [
+   "Stanze tutte tue",
+   "Parti da Studio sotto la pioggia, Campo nel bosco o Casetta sul mare, oppure inizia con una stanza vuota. Le modifiche si salvano automaticamente; rinomina, duplica o sostituisci le stanze salvate quando vuoi."
+  ],
+  [
+   "Rilevamento della testa",
+   "Con cuffie compatibili, i suoni spaziali restano al loro posto quando giri la testa. Le cuffie normali offrono comunque un suono spaziale fisso."
+  ],
+  [
+   "Offline, privato, tranquillo",
+   "Nessun account, nessuna pubblicità, nessuna analisi. I suoni sono inclusi, quindi ascolto, modifica e salvataggio funzionano senza connessione. Un timer di spegnimento abbassa il volume con dolcezza."
+  ]
+ ],
+ "pricing_title": "Gratis per iniziare. Un solo acquisto per tutto.",
+ "free_title": "Gratis",
+ "free_items": [
+  "La stanza Studio sotto la pioggia completa",
+  "Tre suoni, fino a tre livelli",
+  "Posizionamento 3D e rilevamento della testa",
+  "Riproduzione offline e in background, timer di spegnimento",
+  "Una stanza tutta tua",
+  "Anteprima di ogni suono"
+ ],
+ "pro_title": "QuietRoom Pro",
+ "pro_note": "Acquisto unico · nessun abbonamento",
+ "pro_items": [
+  "Le stanze Campo nel bosco e Casetta sul mare",
+  "Tutti i 36 suoni",
+  "Fino a sei livelli per stanza",
+  "Fino a venti stanze tutte tue"
+ ],
+ "pro_price": "Il prezzo è indicato dall’App Store del tuo paese.",
+ "foot_rights": "© 2026 hiimobapps",
+ "foot_contact": "Contatti",
+ "privacy_title": "Informativa sulla privacy",
+ "privacy_desc": "QuietRoom conserva le tue stanze sul tuo dispositivo. Nessun account, pubblicità, tracciamento o analisi.",
+ "updated_label": "Ultimo aggiornamento:",
+ "support_title": "Supporto",
+ "support_desc": "Assistenza per QuietRoom: acquisti, rilevamento della testa, anteprime dei suoni, stanze, timer e contatti.",
+ "privacy": [
+  [
+   "In sintesi",
+   [
+    "QuietRoom è pubblicata da hiimobapps. Non ha account, pubblicità, tracciamento né analisi di terze parti, e non esiste alcun server QuietRoom. L’app non raccoglie dati personali."
+   ]
+  ],
+  [
+   "Dati sul tuo dispositivo",
+   [
+    "I suoni sono inclusi nell’app. Le tue stanze, le impostazioni e l’ultimo backup valido sono memorizzati solo nello spazio locale dell’app sul tuo iPhone. Non c’è sincronizzazione cloud. I backup del dispositivo che esegui tramite Apple possono includere questi dati in base alle tue impostazioni.",
+    "Eliminando l’app, le sue stanze vengono rimosse dal dispositivo."
+   ]
+  ],
+  [
+   "Rilevamento della testa e movimento",
+   [
+    "Quando attivi il rilevamento della testa con cuffie compatibili, l’orientamento viene elaborato localmente dal sistema audio di Apple. QuietRoom non registra, memorizza né carica la posizione della testa o la cronologia dei movimenti. Negare l’accesso a Movimento non impedisce la normale riproduzione."
+   ]
+  ],
+  [
+   "Acquisti",
+   [
+    "Acquisti e ripristini sono gestiti da Apple tramite StoreKit, secondo i termini di Apple. QuietRoom riceve solo lo stato verificato del tuo acquisto e non vede mai i dati della carta di pagamento. Il ripristino su una nuova installazione richiede una connessione a Internet."
+   ]
+  ],
+  [
+   "Autorizzazioni",
+   [
+    "QuietRoom non richiede l’accesso a microfono, posizione, contatti, foto, dati sulla salute o tracciamento pubblicitario."
+   ]
+  ],
+  [
+   "Minori",
+   [
+    "QuietRoom non raccoglie consapevolmente informazioni da nessuno, compresi i minori."
+   ]
+  ],
+  [
+   "Contatti",
+   [
+    "Se ci scrivi via email, usiamo il tuo messaggio solo per risponderti e puoi chiederci di eliminarlo in qualsiasi momento. Contatto: {email}."
+   ]
+  ],
+  [
+   "Modifiche",
+   [
+    "Se questa informativa cambia, la versione aggiornata sarà pubblicata su questa pagina con una nuova data. In caso di differenze tra le traduzioni, prevale la versione inglese."
+   ]
+  ]
+ ],
+ "support": {
+  "intro": "Leggiamo ogni messaggio. Scrivici indicando il modello di iPhone, la versione di iOS e cosa stavi facendo quando si è verificato il problema.",
+  "email_label": "Email",
+  "faq_title": "Domande frequenti",
+  "reqs_title": "Requisiti",
+  "reqs": "iPhone con iOS 18 o versioni successive. Il rilevamento della testa richiede cuffie compatibili e l’accesso a Movimento.",
+  "safety": "Il volume digitale non misura la pressione sonora delle cuffie. Ascolta a un livello confortevole."
+ },
+ "faq": [
+  [
+   "Come ripristino l’acquisto Pro?",
+   "Apri Impostazioni (il pulsante ···) o la pagina Pro e tocca Ripristina acquisti. Usa lo stesso Account Apple con cui hai acquistato. Su una nuova installazione serve una connessione a Internet la prima volta."
+  ],
+  [
+   "Pro è un abbonamento?",
+   "No. QuietRoom Pro è un acquisto unico non consumabile. I rimborsi seguono le regole di Apple."
+  ],
+  [
+   "Come creo una stanza tutta mia?",
+   "Tocca il titolo della stanza per aprire Stanze. Scegli Aggiungi nuova stanza per partire da zero, oppure Salva stanza attuale per conservare il mix attuale. Le modifiche si salvano automaticamente. La versione gratuita include una stanza tua; Pro ne consente venti."
+  ],
+  [
+   "Come sposto un suono più in alto, più in basso o dietro di me?",
+   "Trascina la sua icona intorno alla testa: puoi portarla sopra, sotto o dietro di te. Per valori esatti, tocca il suono e imposta Direzione, Elevazione e Distanza. Trascina la testa stessa per guardare la stanza da un’altra angolazione; questo non cambia ciò che senti."
+  ],
+  [
+   "Il rilevamento della testa risulta non disponibile.",
+   "Il rilevamento della testa richiede cuffie che lo supportino, l’audio spaziale attivo per l’uscita corrente e l’accesso a Movimento per QuietRoom. Si avvia mentre una stanza è in riproduzione. Le cuffie normali offrono comunque un suono spaziale fisso e gli altoparlanti una riproduzione di base."
+  ],
+  [
+   "Quanto dura l’anteprima di un suono?",
+   "Quanto vuoi. L’anteprima continua finché non tocchi Interrompi, chiudi la libreria suoni o esci dall’app. Ogni suono può essere ascoltato in anteprima, compresi i suoni Pro. Durante l’anteprima, la stanza in riproduzione abbassa il volume."
+  ],
+  [
+   "Tuoni o uccelli arrivano troppo di rado, o troppo spesso.",
+   "Tocca il suono nella tua stanza e scegli Rara, Normale o Frequente in Frequenza. Per i passi puoi anche scegliere passi occasionali o una camminata continua."
+  ],
+  [
+   "QuietRoom funziona in background?",
+   "Sì. La riproduzione continua sulla schermata di blocco e in background, con i controlli sulla schermata di blocco. Attiva Mixa con altro audio in Impostazioni per ascoltarla insieme ad altre app."
+  ],
+  [
+   "Come funziona il timer di spegnimento?",
+   "Scegli 15, 30, 60 o 120 minuti. La stanza sfuma negli ultimi dieci secondi e poi si ferma. Mettere in pausa manualmente disattiva il timer."
+  ],
+  [
+   "Dove sono memorizzate le mie stanze? Come le elimino?",
+   "Solo sul tuo iPhone. Elimina una stanza da Stanze → ··· → Elimina, oppure elimina l’app per rimuovere tutto."
+  ]
+ ]
+}

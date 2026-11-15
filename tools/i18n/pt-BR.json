@@ -1,0 +1,183 @@
+{
+ "meta": {
+  "lang": "pt-BR",
+  "locale": "pt_BR",
+  "label": "Português (Brasil)"
+ },
+ "name": "QuietRoom",
+ "nav": [
+  "Recursos",
+  "Suporte",
+  "Privacidade"
+ ],
+ "language_label": "Idioma",
+ "title": "QuietRoom: sons da natureza espaciais para foco e descanso",
+ "desc": "Posicione sons de chuva, floresta, água e fogo ao seu redor em 3D. 36 sons da natureza incluídos, reprodução offline, timer e rastreamento de cabeça opcional no iPhone.",
+ "hero_kicker": "Para iPhone · iOS 18 ou posterior",
+ "hero_title": "Um pouco de calma, bem aqui.",
+ "hero_body": "O QuietRoom coloca sons da natureza ao seu redor: chuva na janela à sua esquerda, um riacho à frente, uma fogueira logo atrás. Coloque os fones, toque em Ouvir e ajuste a sala até ela ficar do seu jeito.",
+ "cta_soon": "Em breve na App Store",
+ "cta": "Baixar na App Store",
+ "cta_support": "Obter suporte",
+ "screenshots_label": "Capturas de tela",
+ "shots": {
+  "home-playing": "Escritório na chuva tocando, com sons posicionados ao redor de um ouvinte 3D",
+  "library": "Ouvindo a prévia de um som na biblioteca de sons",
+  "source-edit": "Definindo com que frequência os trovões aparecem e de onde vêm",
+  "rooms": "Salas selecionadas, suas próprias salas e uma nova sala vazia"
+ },
+ "features_title": "Tudo o que uma sala tranquila precisa",
+ "features": [
+  [
+   "Sons em um espaço real",
+   "Arraste cada som ao redor de um ouvinte 3D: à esquerda ou à direita, à frente ou atrás, acima ou abaixo. Ou defina com precisão a direção, a elevação e a distância. Os fundos amplos permanecem estáveis ao seu redor."
+  ],
+  [
+   "36 sons naturais",
+   "Chuva, trovões, pássaros, riachos, ondas, vento, insetos, passos e fogo. As gravações variam naturalmente, então a sala nunca soa como um loop curto. Ouça a prévia de qualquer som, inclusive os Pro, antes de adicioná-lo."
+  ],
+  [
+   "Sons ocasionais, no seu ritmo",
+   "Trovões, canto de pássaros, gotas e passos surgem de vez em quando. Escolha Raro, Normal ou Frequente para cada um. Os passos também podem soar como uma caminhada contínua."
+  ],
+  [
+   "Salas só suas",
+   "Comece com Escritório na chuva, Acampamento na floresta ou Cabana à beira-mar, ou parta de uma sala vazia. As alterações são salvas automaticamente; renomeie, duplique ou substitua suas salas quando quiser."
+  ],
+  [
+   "Rastreamento de cabeça",
+   "Com fones compatíveis, os sons espaciais ficam no lugar quando você vira a cabeça. Fones comuns continuam oferecendo som espacial fixo."
+  ],
+  [
+   "Offline, privado e tranquilo",
+   "Sem conta, sem anúncios, sem análises. Os sons vêm incluídos, então ouvir, editar e salvar funcionam sem conexão. O timer encerra com um fade suave."
+  ]
+ ],
+ "pricing_title": "Comece de graça. Uma compra para tudo.",
+ "free_title": "Grátis",
+ "free_items": [
+  "A sala Escritório na chuva completa",
+  "Três sons, até três camadas",
+  "Posicionamento 3D e rastreamento de cabeça",
+  "Reprodução offline e em segundo plano, timer",
+  "Uma sala só sua",
+  "Prévia de todos os sons"
+ ],
+ "pro_title": "QuietRoom Pro",
+ "pro_note": "Compra única · sem assinatura",
+ "pro_items": [
+  "As salas Acampamento na floresta e Cabana à beira-mar",
+  "Todos os 36 sons",
+  "Até seis camadas por sala",
+  "Até vinte salas só suas"
+ ],
+ "pro_price": "O preço é exibido pela App Store da sua região.",
+ "foot_rights": "© 2026 hiimobapps",
+ "foot_contact": "Contato",
+ "privacy_title": "Política de Privacidade",
+ "privacy_desc": "O QuietRoom mantém suas salas no seu dispositivo. Sem contas, publicidade, rastreamento ou análises.",
+ "updated_label": "Última atualização:",
+ "support_title": "Suporte",
+ "support_desc": "Ajuda com o QuietRoom: compras, rastreamento de cabeça, prévias de sons, salas, timer e contato.",
+ "privacy": [
+  [
+   "Resumo",
+   [
+    "O QuietRoom é publicado pela hiimobapps. Não tem contas, publicidade, rastreamento nem análises de terceiros, e não existe um servidor do QuietRoom. O app não coleta dados pessoais."
+   ]
+  ],
+  [
+   "Dados no seu dispositivo",
+   [
+    "Os sons vêm incluídos no app. Suas salas, ajustes e o último backup válido ficam armazenados apenas no contêiner local do app no seu iPhone. Não há sincronização com a nuvem. Os backups do dispositivo feitos pela Apple podem incluir esses dados, de acordo com seus próprios ajustes.",
+    "Apagar o app remove as salas do seu dispositivo."
+   ]
+  ],
+  [
+   "Rastreamento de cabeça e movimento",
+   [
+    "Quando você ativa o rastreamento de cabeça com fones compatíveis, a orientação é processada localmente pelo sistema de áudio da Apple. O QuietRoom não grava, armazena nem envia a posição da cabeça ou o histórico de movimento. Recusar o acesso a Movimento não impede a reprodução comum."
+   ]
+  ],
+  [
+   "Compras",
+   [
+    "Compras e restaurações são processadas pela Apple por meio do StoreKit, conforme os termos da Apple. O QuietRoom recebe apenas o status verificado da sua compra e nunca vê dados de cartão de pagamento. Restaurar em uma nova instalação requer conexão com a internet."
+   ]
+  ],
+  [
+   "Permissões",
+   [
+    "O QuietRoom não solicita acesso ao microfone, à localização, aos contatos, às fotos, a dados de saúde nem ao rastreamento de publicidade."
+   ]
+  ],
+  [
+   "Crianças",
+   [
+    "O QuietRoom não coleta intencionalmente informações de ninguém, incluindo crianças."
+   ]
+  ],
+  [
+   "Fale conosco",
+   [
+    "Se você nos enviar um e-mail, usaremos sua mensagem apenas para responder, e você pode pedir que a apaguemos a qualquer momento. Contato: {email}."
+   ]
+  ],
+  [
+   "Alterações",
+   [
+    "Se esta política mudar, a versão atualizada será publicada nesta página com uma nova data. Se houver diferenças entre as traduções, prevalece a versão em inglês."
+   ]
+  ]
+ ],
+ "support": {
+  "intro": "Lemos todas as mensagens. Escreva para nós informando o modelo do seu iPhone, a versão do iOS e o que você estava fazendo quando o problema aconteceu.",
+  "email_label": "E-mail",
+  "faq_title": "Perguntas frequentes",
+  "reqs_title": "Requisitos",
+  "reqs": "iPhone com iOS 18 ou posterior. O rastreamento de cabeça requer fones compatíveis e acesso a Movimento.",
+  "safety": "O volume digital não mede a pressão sonora dos fones. Ouça em um nível confortável."
+ },
+ "faq": [
+  [
+   "Como restauro minha compra Pro?",
+   "Abra os Ajustes (o botão ···) ou a página Pro e toque em Restaurar compras. Use a mesma Conta Apple da compra. Uma nova instalação precisa de conexão com a internet na primeira vez."
+  ],
+  [
+   "O Pro é uma assinatura?",
+   "Não. O QuietRoom Pro é uma compra única não consumível. Os reembolsos seguem as políticas da Apple."
+  ],
+  [
+   "Como crio minha própria sala?",
+   "Toque no título da sala para abrir Salas. Escolha Adicionar nova sala para começar do zero ou Salvar sala atual para guardar sua mistura atual. As edições são salvas automaticamente. A versão grátis inclui uma sala só sua; o Pro permite vinte."
+  ],
+  [
+   "Como coloco um som acima, abaixo ou atrás de mim?",
+   "Arraste o ícone ao redor da cabeça; você pode colocá-lo acima, abaixo ou atrás de você. Para valores exatos, toque no som e ajuste Direção, Elevação e Distância. Arraste a própria cabeça para ver a sala de outro ângulo; isso não muda o que você ouve."
+  ],
+  [
+   "O rastreamento de cabeça aparece como indisponível.",
+   "O rastreamento de cabeça precisa de fones compatíveis, áudio espacial ativado na saída atual e acesso a Movimento para o QuietRoom. Ele começa enquanto uma sala está tocando. Fones comuns continuam oferecendo som espacial fixo, e os alto-falantes oferecem reprodução básica."
+  ],
+  [
+   "Quanto tempo dura a prévia de um som?",
+   "O quanto você quiser. A prévia toca até você tocar em Parar, fechar a biblioteca de sons ou sair do app. Qualquer som pode ser ouvido, inclusive os sons Pro. Uma sala em reprodução abaixa o volume durante a prévia."
+  ],
+  [
+   "Os trovões ou os pássaros aparecem muito pouco, ou demais.",
+   "Toque no som na sua sala e escolha Raro, Normal ou Frequente em Frequência. Os passos também oferecem passos ocasionais ou uma caminhada contínua."
+  ],
+  [
+   "O QuietRoom toca em segundo plano?",
+   "Sim. A reprodução continua com a tela bloqueada e em segundo plano, com controles na tela bloqueada. Ative Misturar com outros áudios nos Ajustes para tocar junto com outros apps."
+  ],
+  [
+   "Como funciona o timer?",
+   "Escolha 15, 30, 60 ou 120 minutos. A sala diminui aos poucos nos últimos dez segundos e para. Pausar manualmente desativa o timer."
+  ],
+  [
+   "Onde minhas salas ficam salvas? Como apago?",
+   "Somente no seu iPhone. Apague uma sala em Salas → ··· → Apagar, ou apague o app para remover tudo."
+  ]
+ ]
+}
